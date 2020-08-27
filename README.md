@@ -1,2 +1,2 @@
 # gallary
-gallary website is a collection of photos with different category.
+gallary is a dynamic website where owner of the website can insert, delete photographs.this website also provides categories of photographs which also dynamic.
